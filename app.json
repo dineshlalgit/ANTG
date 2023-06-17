@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "ANTG",
+    "slug": "ANTG",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#55efc4"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.DBRAIT.ANTGAPP"
+    },
+    "android": {
+      "package": "com.DBRAIT.ANTGAPP",
+      "config":{
+        "googleMobileAdsAppId":"ca-app-pub-4733788262896971~3223919121"
+      }
+    },
+    "description": "This is develop at DBRAIT PORT BLAIR,Maintained by the Student of DBRAIT"
+  }
+}
